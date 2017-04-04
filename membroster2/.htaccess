@@ -1,0 +1,4 @@
+AuthName "Roster"
+AuthUserFile "/home/wvara/.htpasswds/public_html/membroster/passwd"
+AuthType Basic
+require valid-user

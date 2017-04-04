@@ -1,0 +1,30 @@
+head	1.1;
+access;
+symbols;
+locks
+	ikluft:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2003.04.10.03.48.04;	author root;	state Exp;
+branches;
+next	;
+
+
+desc
+@FD 2002 pictures by Ian KO6YQ
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# picture configuration file for WVARA FD 2002
+pics= pa13451097059.jpg pa13451097060.jpg pa13451097061.jpg pa13451097062.jpg pa13451097063.jpg pa13451097064.jpg pa13451097065.jpg pa13451097066.jpg pa13451097067.jpg pa13451097068.jpg pa13451097069.jpg pa13451097070.jpg pa13451097071.jpg pa13451097072.jpg pa13451097073.jpg pa13451097074.jpg pa13451097075.jpg pa13451097076.jpg pa13451097077.jpg pa13451097078.jpg pa13451097079.jpg pa13451097080.jpg pa13451097081.jpg 
+subtitle=WVARA Field Day 2002 Photos by KO6YQ
+intro=
+	These are photos by Ian Kluft KO6YQ
+@

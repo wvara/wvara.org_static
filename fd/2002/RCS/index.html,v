@@ -1,0 +1,82 @@
+head	1.2;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.2
+date	2003.03.27.06.20.04;	author pverinsky;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2000.06.13.22.38.01;	author ikluft;	state Exp;
+branches;
+next	;
+
+
+desc
+@frame-setup front end for Field Day page
+@
+
+
+1.2
+log
+@?
+@
+text
+@<!-- force this to the top frame -->
+<script language=javascript>
+
+if(self != top) {
+ top.location = self.location
+}
+
+// -->
+</script>
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="Description"
+content="West Valley Amateur Radio Association Web Page">
+<meta name="KeyWords"
+content="West Valley Amateur Radio Association, W6PIY, Amateur radio, Ham radio, WVARA, Santa Clara County, Silicon Valley, San Jose, repeater, club, ham radio club, exam">
+<title>West Valley Amateur Radio Association - Field Day</title>
+</head>
+
+<frameset cols="145,*" border="0">
+    <frame name="guide" src="/guide.html" marginheight="0">
+    <frame name="main" src="field_day.html">
+    <noframes>
+    <body bgcolor="#FFFFFF">
+    <p align="center">
+    <a href="field_day.html">Go to the Field Day page</a>.
+    <p>
+    This extra step can be eliminated using a
+    frames-compatible browser such as Netscape Navigator or
+    Microsoft Internet Explorer.
+    (This page is supposed to set up the frames for your browser.)
+    </p>
+    </body>
+    </noframes>
+</frameset>
+</html>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d25 1
+a25 1
+    <frame name="main" src="field_day.shtml">
+d29 1
+a29 1
+    <a href="field_day.shtml">Go to the Field Day page</a>.
+@

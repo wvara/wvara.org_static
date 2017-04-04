@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>WVARA Field Day 2002</title>
+</head>
+<body bgcolor="#ffffff">
+
+<center>
+<img src="fd2002-banner.png" width=600 height=100 alt="">
+<font face=Helvetica,Arial,sans-serif>
+<h1>WVARA Field Day 2002</h1>
+<big><b>%subtitle%</b></big>
+</font>
+</center>
+<p>
+
+%intro%
+<p>
+
+<table>
+%table%
+</table>
+
+<p>
+Back up to the WVARA <a href="/fd/2002/">Field Day 2002 pictures</a>
+<br>
+Back up to the WVARA <a href="/fd/">Field Day main page</a>
+<br>
+Back up to the WVARA <a href="/">home page</a>
+
+</body>
+</html>

@@ -1,0 +1,268 @@
+App.progressCountTotal = 33;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0826.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'DCP_0826.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0826_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0826_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0826_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0826_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0826_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0826_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0827.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'DCP_0827.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0827_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0827_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0827_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0827_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0827_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0827_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0828.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'DCP_0828.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0828_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0828_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0828_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0828_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0828_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0828_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0829.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'DCP_0829.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0829_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0829_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0829_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0829_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0829_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0829_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0830.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'DCP_0830.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0830_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0830_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0830_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0830_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0830_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0830_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0831.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'DCP_0831.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0831_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0831_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0831_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0831_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0831_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0831_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0832.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'DCP_0832.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0832_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0832_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0832_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0832_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0832_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0832_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0833.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'DCP_0833.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0833_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0833_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0833_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0833_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0833_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0833_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0834.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'DCP_0834.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0834_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0834_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0834_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0834_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0834_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0834_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0835.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'DCP_0835.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0835_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0835_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0835_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0835_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0835_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0835_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0836.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'DCP_0836.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0836_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0836_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0836_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0836_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0836_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0836_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0837.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'DCP_0837.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0837_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0837_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0837_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0837_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0837_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0837_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0838.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'DCP_0838.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0838_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0838_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0838_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0838_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0838_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0838_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0839.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'DCP_0839.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0839_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0839_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0839_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0839_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0839_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0839_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0840.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'DCP_0840.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0840_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0840_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0840_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0840_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0840_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0840_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0841.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'DCP_0841.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0841_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0841_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0841_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0841_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0841_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0841_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0842.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'DCP_0842.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0842_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0842_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0842_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0842_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0842_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0842_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0843.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'DCP_0843.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0843_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0843_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0843_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0843_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0843_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0843_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0844.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'DCP_0844.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0844_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0844_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0844_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0844_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0844_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0844_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0845.jpg');
+App.progressCountCurrent = 20;
+App.batchStatusString = 'DCP_0845.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0845_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0845_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0845_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0845_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0845_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0845_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0846.jpg');
+App.progressCountCurrent = 21;
+App.batchStatusString = 'DCP_0846.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0846_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0846_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0846_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0846_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0846_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0846_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0847.jpg');
+App.progressCountCurrent = 22;
+App.batchStatusString = 'DCP_0847.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0847_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0847_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0847_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0847_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0847_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0847_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0848.jpg');
+App.progressCountCurrent = 23;
+App.batchStatusString = 'DCP_0848.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0848_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0848_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0848_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0848_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0848_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0848_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0849.jpg');
+App.progressCountCurrent = 24;
+App.batchStatusString = 'DCP_0849.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0849_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0849_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0849_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0849_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0849_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0849_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0850.jpg');
+App.progressCountCurrent = 25;
+App.batchStatusString = 'DCP_0850.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0850_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0850_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0850_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0850_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0850_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0850_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0851.jpg');
+App.progressCountCurrent = 26;
+App.batchStatusString = 'DCP_0851.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0851_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0851_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0851_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0851_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0851_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0851_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0852.jpg');
+App.progressCountCurrent = 27;
+App.batchStatusString = 'DCP_0852.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0852_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0852_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0852_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0852_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0852_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0852_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0854.jpg');
+App.progressCountCurrent = 28;
+App.batchStatusString = 'DCP_0854.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0854_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0854_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0854_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0854_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0854_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0854_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0855.jpg');
+App.progressCountCurrent = 29;
+App.batchStatusString = 'DCP_0855.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0855_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0855_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0855_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0855_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0855_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0855_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0856.jpg');
+App.progressCountCurrent = 30;
+App.batchStatusString = 'DCP_0856.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0856_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0856_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0856_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0856_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0856_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0856_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0857.jpg');
+App.progressCountCurrent = 31;
+App.batchStatusString = 'DCP_0857.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0857_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0857_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0857_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0857_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0857_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0857_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0858.jpg');
+App.progressCountCurrent = 32;
+App.batchStatusString = 'DCP_0858.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0858_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0858_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0858_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0858_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0858_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0858_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///SystemX/Users/goodwin/HAM/w6piy-antenna/DCP_0826.jpg');
+App.progressCountCurrent = 33;
+App.batchStatusString = 'DCP_0826.jpg';
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/images/DCP_0826_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/images/DCP_0826_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/images/DCP_0826_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"65", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0826_jpg.jpg') || confirm('file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0826_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/antenna-party/thumbnails/DCP_0826_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

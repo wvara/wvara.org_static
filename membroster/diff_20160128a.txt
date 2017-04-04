@@ -1,0 +1,216 @@
+2a3
+> //1/28/16 Code change: Added separate SK list.
+4c5
+< //1/26/16 Code change: Added SK handling, but $hide_all for SK temporarily disabled.
+---
+> //1/26/16 Code change: Added SK handling.
+78c79
+< 	$renewedthru = $row["DuesPaidThru"];
+---
+> 	$arcentry = "";
+79a81
+> 	$entry = "";
+81d82
+< 	$hide_all = $row["HideAll"];
+83a85,86
+> 	$show_in_archive_list = FALSE;
+> 	$show_in_member_list = FALSE;
+84a88,90
+> 	$skentry = "";
+> 	$renewedthru = $row["DuesPaidThru"];
+> 	$hide_all = $row["HideAll"]; //$hide_all is not currently used
+90,125c96,121
+< 	$show_in_memberlist = FALSE;
+< //		$hide_all for SK temporarily disabled:
+< //		if($silentkey == TRUE)
+< //			{
+< //			if($hide_all == FALSE)
+< //				{
+< //				$show_in_memberlist = TRUE;		
+< //				}
+< //			}
+< //		elseif($renewedthru == 2025)
+< 		if($renewedthru == 2025)
+< 			{
+< 			$life_member = TRUE;
+< 			$memberlife_count += 1;
+< 			$current_member = TRUE;
+< 			$show_in_memberlist = TRUE;
+< 			}
+< 		elseif($renewedthru >= $local_yyyy)
+< 			{
+< 			$current_member = TRUE;
+< 			$membercurrent_count += 1;
+< 			$show_in_memberlist = TRUE;
+< 			}
+< 		elseif($renewedthru == ($local_yyyy - 1))
+< 			{
+< 			$memberlastyear = TRUE;
+< 			$memberlastyear_count += 1;
+< 			$show_in_memberlist = TRUE;
+< 			}
+< //		if($local_mm <= $endgrace_mm)
+< //			{
+< //			if($renewedthru == ($local_yyyy - 1))
+< //				{
+< //				$graceperiod_member = TRUE;
+< //				}
+< //			}
+---
+> 	if($renewedthru == 2025)
+> 		{
+> 		$life_member = TRUE;
+> 		$memberlife_count += 1;
+> 		$current_member = TRUE;
+> 		$show_in_member_list = TRUE;
+> 		}
+> 	elseif($renewedthru >= $local_yyyy)
+> 		{
+> 		$current_member = TRUE;
+> 		$membercurrent_count += 1;
+> 		$show_in_member_list = TRUE;
+> 		}
+> 	elseif($renewedthru == ($local_yyyy - 1))
+> 		{
+> 		$memberlastyear = TRUE;
+> 		$memberlastyear_count += 1;
+> 		$show_in_member_list = TRUE;
+> 		}
+> 	else
+> 		{
+> 		if(!$silentkey)
+> 			{
+> 			$show_in_archive_list = TRUE;
+> 			}
+> 		}
+135,150c131,135
+< 	if($silentkey == TRUE)
+< 		{
+< 		$email = "";
+< 		$phone = "";
+< 		$state = "";
+< 		$streetaddress = "";
+< 		$zip = "";
+< 		}
+< 	else
+< 		{
+< 		$email = strtolower($email);
+< 		$phone = $row["Phone"];
+< 		$state = $row["State"];
+< 		$streetaddress = $row["StreetAddress"];
+< 		$zip = $row["Zip"];
+< 		}
+---
+> 	$email = strtolower($email);
+> 	$phone = $row["Phone"];
+> 	$state = $row["State"];
+> 	$streetaddress = $row["StreetAddress"];
+> 	$zip = $row["Zip"];
+152d136
+< 	$call = "<b>$call</b>";
+162c146,151
+< if ($show_in_memberlist)
+---
+> if ($silentkey)
+> 	{
+> 	$skentry .= "$handle $lastname, <b>$call, SK</b><br>";
+> 	$skall .= "$skentry<p>";
+> 	}
+> if ($show_in_member_list)
+166c155
+< 		$entry = "$handle $lastname, $call<b>, SK</b><br>";
+---
+> 		$entry .= "$handle $lastname, <b>$call, SK</b><br>";
+170c159
+< 		$entry = "$handle $lastname, $call<br>";
+---
+> 		$entry .= "$handle $lastname, <b>$call</b><br>";
+184c173
+< 	if($streetaddress)
+---
+> 	if($silentkey)		
+186d174
+< 		$entry .= "$streetaddress<br>";
+188c176
+< 	if(($city) && ($state) && ($zip))
+---
+> 	else
+190c178,196
+< 		$entry .= "$city, $state $zip<br>";
+---
+> 		if($streetaddress)
+> 			{
+> 			$entry .= "$streetaddress<br>";
+> 			}
+> 		if(($city) && ($state) && ($zip))
+> 			{
+> 			$entry .= "$city, $state $zip<br>";
+> 			}
+> 		if($email == "")
+> 			{
+> 			}
+> 		else
+> 			{
+> 			$entry .= "$email<br>";
+> 			}
+> 		if($phone)
+> 			{
+> 			$entry .= "$phone<br>";
+> 			}
+192c198,202
+< 	if($email == "")
+---
+> 	$all .= "$entry<p>";
+> 	}
+> if ($show_in_archive_list)
+> 	{
+> 	if($silentkey)
+193a204
+> 		$arcentry .= "$handle $lastname, <b>$call, SK</b><br>";
+197c208,209
+< 		$entry .= "$email<br>";
+---
+> 		$arcentry .= "$handle $lastname, <b>$call</b><br>";
+> 		$memberlist_count +=1;
+199c211
+< 	if($phone)
+---
+> 	if($silentkey)		
+201d212
+< 		$entry .= "$phone<br>";
+203c214,243
+< 	$all .= "$entry<p>";
+---
+> 	else			
+> 		{
+> 		$arcentry .= "Renewed through $renewedthru<br>";
+> 		}
+> 	if($silentkey)		
+> 		{
+> 		}
+> 	else
+> 		{
+> 		if($streetaddress)
+> 			{
+> 			$arcentry .= "$streetaddress<br>";
+> 			}
+> 		if(($city) && ($state) && ($zip))
+> 			{
+> 			$arcentry .= "$city, $state $zip<br>";
+> 			}
+> 		if($email == "")
+> 			{
+> 			}
+> 		else
+> 			{
+> 			$arcentry .= "$email<br>";
+> 			}
+> 		if($phone)
+> 			{
+> 			$arcentry .= "$phone<br>";
+> 			}
+> 		}
+> 	$arcall .= "$arcentry<p>";
+215a256,257
+> print "$skall";
+> print "$arcall";

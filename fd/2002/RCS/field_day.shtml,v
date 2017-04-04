@@ -1,0 +1,1078 @@
+head	1.19;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.19
+date	2002.06.19.23.12.06;	author ikluft;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2002.06.17.12.14.01;	author ikluft;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2002.06.17.07.53.24;	author ikluft;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2002.06.10.10.54.20;	author ikluft;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2002.05.21.18.15.49;	author ikluft;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2001.06.27.00.50.45;	author ikluft;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2001.06.21.20.49.42;	author ikluft;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2001.06.21.11.13.16;	author ikluft;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2001.06.21.09.41.37;	author ikluft;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2001.06.21.09.05.32;	author ikluft;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2001.06.21.05.12.22;	author ikluft;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2001.06.20.01.22.39;	author ikluft;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2001.06.20.01.10.34;	author ikluft;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2001.06.20.00.36.33;	author ikluft;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2001.06.19.23.38.56;	author ikluft;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2001.03.12.00.23.45;	author ikluft;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2001.02.17.21.46.50;	author ikluft;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2000.06.20.22.29.50;	author ikluft;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2000.06.13.22.29.04;	author ikluft;	state Exp;
+branches;
+next	;
+
+
+desc
+@Field Day index
+@
+
+
+1.19
+log
+@added link to 2001 pictures
+@
+text
+@<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+        <TITLE>WVARA Field Day</TITLE>
+        <META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<CENTER><a name="Field Day"></a><font size="6">Field Day</font></CENTER>
+<TABLE CELLSPACING="10" CELLPADDING="10">
+        <TR>
+                <TD WIDTH="70%" VALIGN="top" valign=top>
+
+<font face=Helvetica,Arial,sans-serif>
+<b>Contents</b>
+</font>
+<ul>
+<li><a href="#quick links">WVARA FD Quick Links</a>
+<li><a href="#intro">Introduction to Field Day</a>
+<li><a href="#what-is">What is Field Day?</a>
+<li><a href="#howto-contest">How to Contest</a>
+<li><a href="#what-to-do">What Can You Do?</a>
+<li><a href="#what-to-bring">What to Bring</a>
+<li><a href="#stations">Radio Stations at Field Day</a>
+<li><a href="#pics">Pictures from Previous Field Days</a>
+<li><a href="#club-credits">Clubs Participating With Us</a>
+<li><a href="#more-info">For more information</a>
+</ul>
+<hr>
+
+<center>
+<table border=1 width=60%>
+<tr><td align=center>
+<b>Note: for Field Day 2002 WVARA will
+<a href="http://www.wvara.org/bulletins/2002-06-001.html">operate under
+the callsign K6PUD</a>
+instead of our club callsign W6PIY.</b>
+</td></tr>
+</table>
+</center>
+
+<font face=Helvetica,Arial,sans-serif>
+<h2><a name="intro">Introduction to Field Day</a></h2>
+</font>
+Field Day is perhaps the biggest event on the ham radio calendar each year.  Thousands of clubs and tens of thousands of hams will participate in this one weekends activies (for more information about Field Day, see the <I><a href="#what-is">What is Field Day</a></I> sidebar).  
+    
+    <p><font color="red">Field Day 2002 will be from June 21 through June 23, 2002 (always the 4th full weekend in June). </font>
+
+    <p>
+<a href="fdsite-map-2002.png"><img src="fdsite-map-2002-tn.png" height=100 width=132 border=0 alt="[WVARA FD 2002 site map]" align=left></a>
+[Site Map - 45K PNG image]
+<br>
+Field Day will take place at WVARA members Charlie Norman, AB6VS and Bobbie Norman, KC6QBF's property.  Their location is the top of the Santa Cruz Mountains  near Mt. Loma Prieta. In addition to being an excelent radio location, this beautiful site has views of the Monterey Bay, Santa Cruz and Lexington Reservior from over 3,000 feet in elevation!  
+(See an <a href="http://www.mapquest.com/maps/map.adp?zoom=9&mapdata=xU4YXdELrnCn7blTHxxHOMty6aRa4eyamKEOy7HeiUkQh1GtNtww0qFXlvyKUCHNXVcsfOepi8oV6aQqYpKV%2boNdJPyrXP5R2K5vIn%2bGHz4Mmcwk8cFEJj7Ok8kH9Tl2e44t1qJY4sWuwc0WU6l8HSs3daehjEPsWY4kAXP8Dl5BNIEYGI%2fJ7wkMO5W%2fo1smLvYNe4cIKyMeEUALSvL9EtilURtrCakd6JgQiY2n9s9VlKYcifdH80NtwHGJjvdnFEOT07KDz%2bTDLpUi%2fNO1o7UUXsGqRDpg9sa%2fn0rDM4GQeE8AEtB%2bqa5zGyRuWn1OqLolu3H%2f2eTpOLbjGxcj6bN%2bw0UsluyVOEQU2F2lByLqmaX2WOpOJ5%2bZGjGYb5G%2fXtCVldpbicYDl9G%2fwjNwgWfgT8FPnVRUuFrsv3iTjEOoQ4iU%2fvqKimiYHK%2bBJMdNSrK2wUP2W5I%3d" target=_top>aerial photo</a> at MapQuest/GlobeXplorer.)
+    
+    <p>The site is only 20 minutes drive from the intersection of highways 17 and 85.   Please use our <a href="directions.shtml" target="_top">map to the Field Day site</a> for reference.  For talk in, use the clubs <a href="http://www.wvara.org/onair.html#Repeaters">two meter repeater</a> while in the valley.  When out of repeater range, use the output frequecy (147.39 MHz) as a simplex freqency.
+    
+<p><font color="red">For Field Day 2002, please take note of these important times!</font>
+    <UL>
+        <LI>The 24 hour setup period will begin at 11:00 a.m. Pacific Time on Friday, June 21st, 2002.
+        <LI>The Field Day contest starts at 11:00 AM on Saturday, June 22.
+        <LI>The contest ends and teardown begins at 11:00 AM on Sunday, June 23.
+        <LI>The club sponsored BBQs will take place on Friday and Saturday nights around 5:00 PM.
+        <LI>Breakfast will be provided in the mornings.
+	<LI>Lunch arrangements are unstructured because they're in the
+	middle of other activities that shouldn't be interrupted.
+	Though snacks are provided, participants are encouraged to bring
+	their own lunches or get them from the Summit Store down the road.
+</UL>
+  
+<font face=Helvetica,Arial,sans-serif>
+<h2><a name="what-to-do">What Can You Do?</a></h2>
+</font>
+<p>So what can you do at Field Day?  Plenty!
+<i>And visitors are welcome.</i>
+WVARA has found that having as large a Field Day as possible gives the maximum ammount of people a chance to participate in the event.  No matter what you do whether it is something mainstream such as HF or VHF operation or something more rare such as digital communications or satellite work, there is a place for you.  Even if all you want to do is to pitch in and help to set the stations up or just take a look around and watch what is happening you will be welcome at any Field Day site.  
+</p>
+
+<p>
+WVARA has also found that with a large site we can  compete for a good score in the contest. In the last few years, WVARA has finished as one of the top clubs in the nation.  Will you help us capture first place this year?  
+</P>
+
+<font face=Helvetica,Arial,sans-serif>
+<h2><a name="what-to-bring">What to Bring</a></h2>
+</font>
+
+If you're just visiting for the day or the Saturday barbeque, bring:
+<ul>
+<li>lunch and any preferred personal snacks -
+WVARA will provide soft drinks, breakfast, BBQ dinner and general snacks
+for participants and visitors
+<li>hat or cap
+<li>sun block, insect repellent
+<li>dress for warm days and cool, windy nights
+<li>Hams - the only radio you need to bring is your mobile or handheld radio
+in case you need to ask for directions enroute to the site.
+Station radios were already planned months ago.
+</ul>
+
+If you'll be camping overnight Friday and/or Saturday, more items to bring:
+<ul>
+<li>personal tent
+<li>sleeping bag
+<li>toiletries/hygeine items
+<li>flashlight and spare batteries (use it after dark!)
+<li>mark all personal items with masking tape having your last name and
+callsign so that lost&amp;found items are more easilt returned
+</ul>
+If you'll be staying for the weekend, park at first in the main parking
+area according to the signs.
+But please ask about where to park your car so that we can leave the 
+parking areas clear on Saturday for BBQ attendees, so we can hold off
+having to divert to the overflow parking area.
+<p>
+Station coordinators have already gotten their checklists on the
+<a href="http://www.wvara.org/mailman/listinfo/fd-l">FD-L mail list</a>.
+For reference for future years, they are
+<ul>
+<li><a href="FD_Checklist.pdf">WVARA Field Day Station Checklist</a> (54K PDF)
+<li><a href="fdbch.html">Field Day Band Captain's Handbook</a>
+</ul>
+
+<font face=Helvetica,Arial,sans-serif>
+<h2><a name="stations">Radio Stations at Field Day</a></h2>
+</font>
+
+One other important aspect of Field Day is that hams can operate on modes and bands that they can't normally use.  Hams that have HF privledges often act as control operators at their stations allowing those without HF privledges to operate on the HF bands.  Many a new ham has gotten their first taste of HF operating at Field Day.  For more information, see the <I><a href="#howto-contest">How to Contest</a></I> sidebar.</P>  
+
+<P>
+Here is a list of who are the Field Day Band Captains
+(station coordinators) for 2002.
+If you wish to volunteer to help with their station, please send e-mail to "<I>Their Call</I>"@@WVARA.ORG or contact the <a href="mailto:field-day@@wvara.org">Field Day Coordinators</a>.
+Our current planning scenario for 2002 is a "twenty two alpha" site.
+(22A contest category, meaning 22 transmitters all on emergency power)
+</P>
+
+<BLOCKQUOTE>
+<pre>
+Simultaneous stations in operation:
+
+HF Phone Stations
+  160m - KQ6OB
+   80m - K6EI
+   40m - AD6CL
+   20m - K6UCK
+   15m - K6ENT
+   10m - AD6RY
+
+HF CW Stations
+  160m     - none
+   40m     - AE6CH
+   20m     - W1SRD
+   15m/80m - N6DE
+   10m     - K6PUD (station setup K1LPI/KO6YQ)
+
+HF Digital Stations
+   40m - N3EOP/KG6GTX (PSK31)
+   20m - W6ZZZ        (PSK31)
+   15m - W6EI         (PSK31/RTTY)
+   10m - N3EOP/KG6GTX (PSK31)
+
+VHF/UHF Phone Stations
+   6m      - N6FFC/KG6BKI
+   2m      - N6FFC/KG6BKI
+   220 MHz - N6FFC
+   440 MHz - K1LPI
+
+VHF/UHF CW Stations
+   none
+
+VHF/UHF Digital Stations
+   2m - Packet KF6SPI
+
+Microwave and Above Stations
+   1.2 GHz - K1LPI
+   2.4 GHz - ??? N6FFC
+   10 GHz  - AD6A
+   24 GHz  - AD6A
+   474 THz - AD6A (laser)
+
+Satellite Station
+   Satellite - KO6YQ (LEO) / KG6IAL (AO-40)
+
+Special Stations
+   GOTA (Get on the Air) - none
+
+---------
+
+Bonus Points (12 possible areas)
+   1. 100% Emergency Power (petrol)  - KF6EMB (Svend Power &amp; Light)
+   2. Alternate Power (solar, 6m)    - KF6EMB
+   3. GOTA (make 400 QSOs)           - none
+   4. Media Publicity                - W6ZZZ (Mountain Network News article)
+   5. Message via NTS (10 messages)  - KF6SPI/AD6RY
+   6. Message to Sect Mgr (ARES ops) - AD6RY/K6PUD
+
+   7. Non-traditional Mode Demonstrations (max 3)
+      a, APRS       - K1LPI
+      b. Digipeater - N3EOP
+      c. SSTV       - W6EI/K6RAI
+
+   8. Public Info Table   - KF6LSK/KF6MCM
+   9. Public Location     - W6ZZZ (article inviting public in MNN magazine)
+   10. Satellite QSO      - KO6YQ/KG6IAL
+   11. Site Visit by Govt - W6ZZZ (Mountain Emergency Response Corp)
+   12. Copy W1AW Bulletin - CW ???, Phone ???, RTTY W6EI
+
+---------
+
+Site Operations
+   Data Network Fiber - KF6EMB/W6EI
+   Data Network Admin - KG6BNL
+   Food, Drinks &amp; Ice - KF6EMB/KD6WJV/KG6AQD
+   Guest Greeters     - WB6KHP, others ???
+   Porta-Potty        - N6FFC
+   Safety Officer     - K1LPI
+   Videotographer     - KG6BRT
+
+</pre>
+</BLOCKQUOTE>
+
+For anything shown as "<i>???</i>", please feel free to volunteer.
+
+<font face=Helvetica,Arial,sans-serif>
+<h2><a name="pics">Pictures from Previous Field Days</a></h2>
+</font>
+<b>Follow the links below for information and pictures from past WVARA Field Day sites:
+<UL>
+        <LI><a href="http://www.employees.org/~ikluft/wvara/fd96.html">1996</a>
+    <LI><a href="/fd/1999/">1999</a> 
+    <LI><a href="/fd/2000/">2000</a>
+    <LI><a href="/fd/2001/">2001</a>
+</UL>
+</b>
+</p>
+
+<font face=Helvetica,Arial,sans-serif>
+<h2><a name="more-info">For more information</a></h2>
+</font>
+For rules and more information see the<a href="http://www.arrl.org/contests/announcements/fd/" target="_top">ARRL Field Day web page</a>.
+<p>
+<a href="fd-history.html">WVARA Field Day History</a>
+(e-mail from June 2002)
+<p>
+<a href="http://www.wvara.org/newsletter/jun2002.pdf">WVARA Heterodyne Newsletter - Field Day edition, June 2002</a> (485K PDF)
+<p>
+ARRL posted an article on May 9, 2002 called
+<a href="http://www.arrl.org/news/features/2002/05/09/1/">"Plan for a Successful ARRL Field Day--Your Club Will Benefit"</a>.
+<p>
+For visitors not familiar with the Santa Cruz mountains, we posted
+<a href="visitor-safety.html">some safety tips from Marc W6ZZZ</a>.
+</p>
+If you are coordinating a Field Day station for WVARA
+(a role which we call a "band captain")
+this year or considering
+it for an upcoming Field Day, see K6PUD's
+<a href="fdbch.html">Field Day Band Captain's Handbook</a>.
+
+
+    </TD>
+
+<TD WIDTH="30%" BGCOLOR="#FFFFCC" valign=top>
+
+<font face=Helvetica,Arial,sans-serif>
+<CENTER><h2><a name="quick links">WVARA FD Quick Links</a></h2></CENTER>
+</font>
+
+<small>
+<a href="directions.shtml" target="_top">Directions to the FD site</a>
+<br>
+<a href="fdsite-map-2002.png">WVARA FD 2002 site map</a> (45K PNG image)
+<br>
+<a href="fdbch.html">WVARA Field Day Band Captain's Handbook</a>
+<br>
+<a href="FD_Checklist.pdf">WVARA Field Day Station Checklist</a> (54K PDF)
+<br>
+<a href="visitor-safety.html">Visitor Safety Tips</a>
+<br>
+<a href="http://www.arrl.org/contests/announcements/fd/" target="_top">ARRL Field Day web page</a>
+<br>
+<a href="http://www.wvara.org/mailman/listinfo/fd-l">WVARA's FD-L mail list</a>
+<br>
+<a href="fd-history.html">WVARA Field Day History</a>
+</small>
+<p>
+
+<font face=Helvetica,Arial,sans-serif>
+<CENTER><h2><a name="club-credits">Clubs Participating With Us</a></h2></CENTER>
+</font>
+
+<a href="http://www.accesscom.com/~ziegler/lparc.html" target=_top>Loma Prieta ARC</a>
+<br>
+TRW ARC, Sunnyvale
+<br>
+Cisco ARC, San Jose
+
+<font face=Helvetica,Arial,sans-serif>
+<CENTER><h2><a name="what-is">What is Field Day?</a></h2></CENTER>
+</font>
+<P>That's a good question, and if you asked ten hams, you would probably get ten different answers.  Some would say that Field Day is a contest, others would say that it is an emergency preparedness exercise, still others would say that it is a party and yet others would say that it is a public relations exercise.  Who is right?  They all are!  Field Day is all of those things and more.  The best description anyone can find is that Field Day is all of ham radio in one weekend!</P>
+
+<P>During Field Day, ham radio clubs, groups and individuals take to the field in simulated emergency conditions (living in tents and running on generators and batteries).  They are given 24 hours to set up as many stations as they are able.  In the next 24 hours they are try to make as many contacts as they can with those stations.  All aspects of ham radio are used in this pursuit.   More than a million contacts will be made on HF and VHF, CW, SSB and digital modes this weekend.  Bonus points are awarded for making an extra effort such as making contacts via satellites or sending and receiving message traffic.  </P>
+
+<P>
+Field Day isn't just about radio though.  Clubs use this biggest of all yearly events for many other activities.  With much of the clubs membership assembled it is  a natural time for BBQ's and other gatherings.  Also with all of ham radio on display this weekend it is a choice time to show off what we do best.  The media and government officials are invited to attend to view what ham radio can do.  
+</P>
+
+<P>
+As you can see, Field Day is indeed all of ham radio in one weekend and anyone that attends their first Field Day rarely misses one again!
+</P>
+<font face=Helvetica,Arial,sans-serif>
+<P><CENTER><h2><a name="howto-contest">How to Contest</a></h2></CENTER></P>
+</font>
+
+<P>While Field Day isn't strictly a contest, that is how the entrants are rated and why not?  A contest is a great way to evaluate a stations performance.  It is also a great way to simulate message handling which will be a big part of any response to an emergency.  </P>
+
+<P>So what is a contest?  Put most simply, in a contest the objective is to make as many contacts in as many places as possible in a prescribed ammount of time.  For Field Day, the objective is simply to make as many contacts as possible in the 24 hours you are alloted.  To make those contacts valid, you have to exchange a certain ammount of information.  The "exchange" for Field Day is your entry class (number of transmitters) and your ARRL section.  </P>
+
+<P>So how do you go about making these contacts?  Just as you would for any other QSO in amateur radio, there are only two ways to initiate a conversation.  You either have to answer someone who is calling CQ or call CQ yourself and wait for someone to answer you.  Which method is better?  It is generally accepted that staying in one place, calling CQ and letting the other stations come to you is quicker and less tiring.  However, this only works if you have a signal that is loud enough to attract other stations.  If you aren't making any contacts or aren't making them fast enough, you are forced to switch to the search and pounce method.  Excelent operators can rack up the QSOs almost as fast this way.  Which ever method you employ, a Field Day contact sounds like this:
+
+<BLOCKQUOTE>
+<FONT COLOR="#FF0000">CQ Field Day CQ Field Day this is <a href="http://www.wvara.org/bulletins/2002-06-001.html">K6PUD  Kilo Six Papa Uniform Delta</a> calling CQ Field Day and listening.</FONT><BR>
+Whiskey One Alfa Whiskey.<BR>
+<FONT COLOR="#FF0000">W1AW thank you, we are Twenty Two Alfa, Santa Clara Valley, over.</FONT><BR>
+Thank you, we are 6 Delta, Connecticut, over.<BR>
+<FONT COLOR="#FF0000">Thank you, this is <a href="http://www.wvara.org/bulletins/2002-06-001.html">Kilo Six Papa Uniform Delta</a>, QRZ?</FONT>
+</BLOCKQUOTE>
+
+All that is left is to record the contact on your log sheet and get ready for the next contact.  </P>
+
+<P>Obviously because of the variability of radio propagation and other factors, many contacts aren't this neat and clean.  This is especially true when multiple people are calling you or you are getting interference from another station, but learning to deal with these conditions are part of the lure and purpose of Field Day!
+</TD>
+        </TR>
+</TABLE>
+</BODY>
+</HTML>
+
+@
+
+
+1.18
+log
+@shorten one of the lines in the <pre> section since it was over-widening
+the window.
+@
+text
+@d231 1
+a231 1
+    <LI>2001 pictures coming soon
+@
+
+
+1.17
+log
+@more updates for 2002
+@
+text
+@d192 1
+a192 1
+   4. Media Publicity                - W6ZZZ (Mountain Network News published article)
+@
+
+
+1.16
+log
+@update as FD nears
+@
+text
+@d132 2
+a133 2
+Our current planning scenario for 2002 is a "twenty one alpha" site.
+(21A contest category, meaning 21 transmitters all on emergency power)
+d138 2
+d149 1
+d153 1
+a153 1
+   10m     - K6PUD (station setup by K1LPI/KO6YQ)
+d156 8
+a163 7
+   20m     - PSK31/RTTY W6ZZZ
+   10m/80m - PSK31 N3EOP/KG6GTX
+   15m     - PSK31/RTTY W6EI
+
+VHF Phone Stations
+   6m      - KE6PWH
+   2m      - N6FFC
+d165 1
+d167 2
+a168 4
+UHF Phone Stations
+   440 MHz - K1LPI
+   1.2 GHz - K1LPI
+   2.4 GHz - N6FFC
+d174 2
+d180 1
+a180 1
+Satellite Stations
+d184 3
+a186 1
+   GOTA (Get on the Air) - none (no volunteers)
+d189 19
+a207 15
+   100% Emergency Power (generator) - KF6EMB
+   Alternate Power (solar, 6m station) - KF6EMB
+   GOTA (400 QSOs) - none
+   Media Publicity - W6ZZZ
+   Message Handling (NTS, 10 messages) - KF6SPI
+   Message to Section Manager (NTS, number of ARES ops) - K6PUD/W6ZZZ
+   Non-traditional Mode Demonstrations (bonus for up to 3)
+      APRS demo  - K1LPI
+      Digipeater - N3EOP
+      SSTV       - W6EI
+   Public Information Table - KF6LSK/KF6MCM
+   Public Location - W6ZZZ (got article inviting public in newspaper)
+   Satellite QSO - KO6YQ/W6EI/KG6IAL
+   Site Visitation by Served Agency (MERC) - W6ZZZ
+   W1AW Bulletin - CW <i>TBA</i>, Phone <i>TBA</i>, RTTY W6ZZZ
+d210 8
+a217 12
+   Power grid       - KF6EMB
+   Data Network     - KG6BNL/W6EI/KF6EMB
+     Fiber Backbone - KF6EMB
+     Network Admin  - KG6BNL
+   Food Preparation - KF6EMB/KD6WJV &amp; more <i>TBA</i>
+   Guest Greeters   - WB6KHP (tentative), others <i>TBA</i>
+   Safety Officer   - K1LPI
+
+Other Points
+   Power multiplier - 2x, 150 Watts or less maximum power
+   Site size - 100 points for each max simultaneous transmitter
+               (2100 bonus points if 21A site is achieved)
+d221 1
+a221 2
+For anything listed as "<i>TBA</i>" (to be announced), please feel free to
+volunteer.  We're recruiting for them.
+d241 5
+d281 2
+d323 1
+a323 1
+<FONT COLOR="#FF0000">W1AW thank you, we are Twenty One Alfa, Santa Clara Valley, over.</FONT><BR>
+@
+
+
+1.15
+log
+@update for 2002
+@
+text
+@d30 11
+d49 2
+a50 2
+<a href="fd2001-map.jpg"><img src="fd2001-map-sm.jpg" height=115 width=150 border=0 alt="[WVARA FD 2001 site map]" align=left></a>
+[Site Map - 90K JPEG image], same layout in 2002
+d132 2
+a133 2
+Our planning scenario for 2002 is a "twenty alpha" site.
+(20A contest category, meaning 20 transmitters all on emergency power)
+d139 1
+a139 1
+  160m - <i>TBA</i>
+a146 1
+  160m     - <i>TBA</i>
+d150 1
+a150 1
+   10m     - K6PUD
+d154 2
+a155 1
+   10m/15m - PSK31 N3EOP/KG6GTX
+d165 1
+a165 1
+   2.4 GHz - N6FFC (tentative)
+d176 1
+a176 2
+   Satellite 1 - KO6YQ
+   Satellite 2/Meteor Scatter (2m) - W6EI/KG6IAL
+d179 1
+a179 1
+   GOTA (Get on the Air) - <i>TBA</i>
+d184 1
+a184 1
+   GOTA (400 QSOs) - <i>TBA</i>
+d187 1
+a187 1
+   Message to Section Manager (NTS, number of ARES ops) - K6PUD
+d191 1
+a191 1
+      Third demo - <i>TBA</i>
+d193 2
+a194 2
+   Public Location (shopping center, park, school) - <i>TBA</i>
+   Satellite QSO (at least one) - KO6YQ/W6EI/KG6IAL
+d210 1
+a210 1
+               (2000 bonus points if 20A site is achieved)
+d259 1
+a259 1
+<a href="fd2001-map.jpg">WVARA FD 2001 site map</a> (90K JPEG), same layout in 2002
+d308 1
+a308 1
+<FONT COLOR="#FF0000">CQ Field Day CQ Field Day this is W6PIY Whiskey Six Papa India Yankee calling CQ Field Day and listening.</FONT><BR>
+d310 1
+a310 1
+<FONT COLOR="#FF0000">W1AW thank you, we are Twenty Alfa, Santa Clara Valley, over.</FONT><BR>
+d312 1
+a312 1
+<FONT COLOR="#FF0000">Thank you, this is Whiskey Six Papa India Yankee, QRZ?</FONT>
+@
+
+
+1.14
+log
+@update after Field Day 2001
+@
+text
+@a34 2
+    <p><font color="red">Field Day 2001 was from June 22 through June 24, 2001. </font>
+
+d39 1
+a39 1
+[Site Map - 90K JPEG image]
+d42 1
+a42 1
+(See an <a href="http://www.mapquest.com/cgi-bin/ia_find?link=btwn/twn-map_results&zoom_in=1&uid=u1t401c0s689v9ad:z5qwy206b&aphoto=1&SNVData=3mad3-96,hr%3bba96an%3d%3d2l9rzxh.hqu%3b%28_%3d%3a%28_lz221u%28.902gga1_1.lq%286,qej%7cynbgmej,fwgf-d.mj72s-N7m%2fN16%2bEdv8rm%2a%2blz%40nu02xlabxlabx%26%2b_n1u%40ggay0gyz0gyt%3b2hm-9&pcat=" target=_top>aerial photo</a> at MapQuest/GlobeXplorer.)
+d118 6
+a123 2
+Here is a list of who are the Field Day Band Capitans for 2001.
+If you wish to volunteer to help with their station, please send e-mail to "<I>Their Call</I>"@@WVARA.ORG or contact the <a href="mailto:k6pud@@wvara.org">Field Day Coordinator</a>.</P>
+d126 77
+d204 2
+a205 54
+<u>Phone Stations</u><br>
+10 - AD6RY<br>
+15 - AD6CL<br>
+20 - K6ENT <br>
+40 - AD6MZ<br>
+80 - KF6UTE<br>
+160 -N3EOP<br>
+<p>
+<u>CW Stations</u><br>
+10 - K6PUD<br>
+15/80 - N6IV<br>
+20 - K6EI<br>
+40 - AD6A<br>
+<p>
+<u>HF Digital Stations</u><br>
+20/80 - W6EI / W6ZZZ<br>
+10/15/40 - N3EOP<br>
+<p>
+<u>VHF Stations</u><br>
+6M - KE6PWH<br>
+2M - N6FFC<br>
+220 - WB6G<br>
+440 - K1LPI<br>
+1.2 - K1LPI<br>
+10GHz - KG6CGA/AD6A<br>
+137THz (laser) - AD6A<br>
+<p>
+<u>Other</u><br>
+Satellite - KO6YQ<br>
+Packet - KG6BNL<br>
+<p>
+<u>Bonuses</u><br>
+Emergency Power - KF6EMB<br>
+Media - K6PUD<br>
+Public Area - WB6KHP<br>
+Info Table - WB6KHP<br>
+Message to SM - K6PUD<br>
+Messages - KG6BNL<br>
+Satellite - KO6YQ<br>
+Alternate Power - KF6EMB<br>
+W1AW Bulletin - W6EI<br>
+Site Visitation - K6PUD<br>
+Demo 1 - K1LPI - APRS demo<br>
+Demo 2 - WB6G - ATV demo<br>
+Demo 3 - N3EOP - digipeater<br>
+<p>
+<u>Site Operations</u><br>
+Safety Officer - K1LPI<br>
+Food Preparation - KF6EMB/KD6WJV<br>
+Data Network - W6EI/KF6EMB<br>
+Guest Greeter - WB6KHP<br>
+
+
+</BLOCKQUOTE>
+d215 1
+d225 3
+d249 1
+a249 1
+<a href="fd2001-map.jpg">WVARA FD 2001 site map</a> (90K JPEG)
+d267 1
+a267 1
+<a href="http://www.accesscom.com/~ziegler/lparc.html" target=_top>Loma Prieta Amateur Radio Club</a>
+d269 1
+a269 1
+TRW Sunnyvale Amateur Radio Club
+d271 1
+a271 1
+<a href="http://www.carc.net/" target=_top>Cisco Amateur Radio Club</a>, San Jose
+d300 1
+a300 1
+<FONT COLOR="#FF0000">W1AW thank you, we are 18 Alfa, Santa Clara Valley, over.</FONT><BR>
+@
+
+
+1.13
+log
+@added "what to bring" section
+@
+text
+@d35 3
+a37 1
+    <p><font color="red">Field Day 2001 will be from June 22 through June 24 (always the 4th full weekend in June). </font>
+d48 1
+a48 1
+<p><font color="red">Please take note of these important times!</font>
+d50 3
+a52 3
+        <LI>The 24 hour setup period will begin at 11:00 a.m. Pacific Time on Friday, June 22nd, 2001.
+        <LI>The Field Day contest starts at 11:00 AM on Saturday, June 23.
+        <LI>The contest ends and teardown begins at 11:00 AM on Sunday, June 24.
+d55 4
+d159 4
+a162 4
+Public Area - <br>
+Info Table - <br>
+Message to SM - <br>
+Messages - <br>
+d165 1
+a165 1
+W1AW Bulletin - <br>
+d169 1
+a169 1
+Demo 3 - TBA<br>
+@
+
+
+1.12
+log
+@add aerial photo
+@
+text
+@d11 1
+a11 1
+                <TD WIDTH="70%" VALIGN="top">
+d22 1
+d68 40
+d110 1
+d203 1
+a203 1
+<TD WIDTH="30%" BGCOLOR="#FFFFCC">
+d212 1
+a212 1
+<a href="fd2001-map.jpg">WVARA FD 2001 site map</a> (90K JPEG image)
+d216 2
+d221 2
+@
+
+
+1.11
+log
+@filled in station/role list
+added list of other clubs
+@
+text
+@d41 1
+@
+
+
+1.10
+log
+@update 16A to 18A as per K6PUD's announcement
+@
+text
+@d24 1
+d97 1
+a97 1
+220 - K6GLY<br>
+d99 1
+a99 1
+1.2 - <br>
+d119 1
+a119 1
+Demo 2 - TBA<br>
+d121 8
+d178 10
+@
+
+
+1.9
+log
+@link to w6zzz's safety tips
+@
+text
+@d197 1
+a197 1
+<FONT COLOR="#FF0000">W1AW thank you, we are 16 Alfa, Santa Clara Valley, over.</FONT><BR>
+@
+
+
+1.8
+log
+@fix broken intra-doc link
+@
+text
+@d138 3
+a141 1
+<p>
+d163 2
+@
+
+
+1.7
+log
+@add navigation links
+minor corrections
+@
+text
+@d67 1
+a67 1
+One other important aspect of Field Day is that hams can operate on modes and bands that they can't normally use.  Hams that have HF privledges often act as control operators at their stations allowing those without HF privledges to operate on the HF bands.  Many a new ham has gotten their first taste of HF operating at Field Day.  For more information, see the <I><a href="howto-contest">How to Contest</a></I> sidebar.</P>  
+@
+
+
+1.6
+log
+@2001 update, addition navigation links
+@
+text
+@d13 19
+a31 2
+<p>
+Field Day is perhaps the biggest event on the ham radio calendar each year.  Thousands of clubs and tens of thousands of hams will participate in this one weekends activies (for more information about Field Day, see the <I>What is Field Day</I> sidebar).  
+d52 6
+a57 1
+<p>So what can you do at Field Day?  Plenty!  WVARA has found that having as large a Field Day as possible gives the maximum ammount of people a chance to participate in the event.  No matter what you do weather it is something mainstream such as HF or VHF operation or something more rare such as digital communications or satellite work, there is a place for you.  Even if all you want to do is to pitch in and help to set the stations up or just take a look around and watch what is happening you will be welcome at any Field Day site.  
+d64 4
+a67 2
+<P>
+One other important aspect of Field Day is that hams can operate on modes and bands that they can't normally use.  Hams that have HF privledges often act as control operators at their stations allowing those without HF privledges to operate on the HF bands.  Many a new ham has gotten their first taste of HF operating at Field Day.  For more information, see the <I>How to Contest</I> sidebar.</P>  
+d99 2
+a100 2
+10GHZ - KG6CGA/AD6A<br>
+137THz - AD6A<br>
+d122 4
+a125 1
+<p><b>Follow the links below for information and pictures from past WVARA Field Day sites:
+d134 4
+a137 1
+<p>For rules and more information see the<a href="http://www.arrl.org/contests/announcements/fd/" target="_top">ARRL Field Day web page</a>.
+d151 3
+a153 1
+<CENTER><H2>WVARA FD Quick Links</H2></CENTER>
+d156 1
+a156 1
+<a href="directions.shtml" target="_top">Direction to the FD site</a>
+d166 3
+a168 1
+<CENTER><H2>What is Field Day?</H2></CENTER>
+d180 3
+a182 1
+<P><CENTER><H2>How to Contest</H2></CENTER></P>
+d193 1
+a193 1
+<FONT COLOR="#FF0000">W1AW thank you, we are 13 Alfa, Santa Clara Valley, over.</FONT><BR>
+@
+
+
+1.5
+log
+@fix CRs to NLs so I can read and edit the file
+@
+text
+@d18 5
+a22 1
+    <p>Field Day will take place at WVARA members Charlie Norman, AB6VS and Bobbie Norman, KC6QBF's property.  Their location is the top of the Santa Cruz Mountains  near Mt. Loma Prieta. In addition to being an excelent radio location, this beautiful site has views of the Monterey Bay, Santa Cruz and Lexington Reservior from over 3,000 feet in elevation!  
+d46 1
+a46 2
+Here is a list of who were the Field Day Band Capitans for 2000.
+Planning for Field Day 2001 is in progress.
+a49 18
+<P><U>SSB</U><BR>
+10/80 - KF6LCV<BR>
+15 - AD6CL<BR>
+20 - AD6A<BR>
+40 - KQ6WO</P>
+
+<P><U>CW</U><BR>
+15/80 - K6PUD<BR>
+20 - K6EI<BR>
+40 - N6DE</P>
+
+<P><U>DIGITAL</U><BR>
+HF - K6ENT<BR>
+VHF - KF6SPI/KF6SPH</P>
+
+<P><U>VHF</U><BR>
+50/220/1200 MHz - K1LPI<BR>
+144/440 MHz - N6FFC</P>
+d51 45
+a95 2
+<P><U>MULTI-BAND</U><BR>
+Satellite - KO6YQ</P>
+d107 1
+a107 1
+<p>For rules and more information see the<a href="http://www.arrl.org/contests/announcements/fd/">ARRL Field Day web page</a>.
+d109 8
+d118 17
+a134 1
+                <TD WIDTH="30%" BGCOLOR="#FFFFCC"><CENTER><H2>What is Field Day?</H2></CENTER>
+@
+
+
+1.4
+log
+@2001 update
+@
+text
+@d1 42
+a42 1
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><HTML><HEAD>        <TITLE>WVARA Field Day</TITLE>        <META NAME="generator" CONTENT="BBEdit 5.1.1"></HEAD><BODY BGCOLOR="#FFFFFF"><CENTER><a name="Field Day"></a><font size="6">Field Day</font></CENTER><TABLE CELLSPACING="10" CELLPADDING="10">        <TR>                <TD WIDTH="70%" VALIGN="top"><p>Field Day is perhaps the biggest event on the ham radio calendar each year.  Thousands of clubs and tens of thousands of hams will participate in this one weekends activies (for more information about Field Day, see the <I>What is Field Day</I> sidebar).          <p><font color="red">Field Day 2001 will be from June 22 through June 24 (always the 4th full weekend in June). </font>    <p>Field Day will take place at WVARA members Charlie Norman, AB6VS and Bobbie Norman, KC6QBF's property.  Their location is the top of the Santa Cruz Mountains  near Mt. Loma Prieta. In addition to being an excelent radio location, this beautiful site has views of the Monterey Bay, Santa Cruz and Lexington Reservior from over 3,000 feet in elevation!          <p>The site is only 20 minutes drive from the intersection of highways 17 and 85.   Please use our <a href="directions.shtml" target="_top">map to the Field Day site</a> for reference.  For talk in, use the clubs <a href="http://www.wvara.org/onair.html#Repeaters">two meter repeater</a> while in the valley.  When out of repeater range, use the output frequecy (147.39 MHz) as a simplex freqency.    <p><font color="red">Please take note of these important times!</font>    <UL>        <LI>The 24 hour setup period will begin at 11:00 a.m. Pacific Time on Friday, June 22nd, 2001.        <LI>The Field Day contest starts at 11:00 AM on Saturday, June 23.        <LI>The contest ends and teardown begins at 11:00 AM on Sunday, June 24.        <LI>The club sponsored BBQs will take place on Friday and Saturday nights around 5:00 PM.        <LI>Breakfast will be provided in the mornings.</UL>  <p>So what can you do at Field Day?  Plenty!  WVARA has found that having as large a Field Day as possible gives the maximum ammount of people a chance to participate in the event.  No matter what you do weather it is something mainstream such as HF or VHF operation or something more rare such as digital communications or satellite work, there is a place for you.  Even if all you want to do is to pitch in and help to set the stations up or just take a look around and watch what is happening you will be welcome at any Field Day site.  </p><p>WVARA has also found that with a large site we can  compete for a good score in the contest. In the last few years, WVARA has finished as one of the top clubs in the nation.  Will you help us capture first place this year?  </P><P>One other important aspect of Field Day is that hams can operate on modes and bands that they can't normally use.  Hams that have HF privledges often act as control operators at their stations allowing those without HF privledges to operate on the HF bands.  Many a new ham has gotten their first taste of HF operating at Field Day.  For more information, see the <I>How to Contest</I> sidebar.</P>  <P>Here is a list of who were the Field Day Band Capitans for 2000.
+d44 75
+a118 1
+If you wish to volunteer to help with their station, please send e-mail to "<I>Their Call</I>"@@WVARA.ORG or contact the <a href="mailto:k6pud@@wvara.org">Field Day Coordinator</a>.</P><BLOCKQUOTE><P><U>SSB</U><BR>10/80 - KF6LCV<BR>15 - AD6CL<BR>20 - AD6A<BR>40 - KQ6WO</P><P><U>CW</U><BR>15/80 - K6PUD<BR>20 - K6EI<BR>40 - N6DE</P><P><U>DIGITAL</U><BR>HF - K6ENT<BR>VHF - KF6SPI/KF6SPH</P><P><U>VHF</U><BR>50/220/1200 MHz - K1LPI<BR>144/440 MHz - N6FFC</P><P><U>MULTI-BAND</U><BR>Satellite - KO6YQ</P></BLOCKQUOTE><p><b>Follow the links below for information and pictures from past WVARA Field Day sites:<UL>        <LI><a href="http://www.employees.org/~ikluft/wvara/fd96.html">1996</a>    <LI><a href="/fd/1999/">1999</a>     <LI><a href="/fd/2000/">2000</a></UL></b></p><p>For rules and more information see the<a href="http://www.arrl.org/contests/announcements/fd/">ARRL Field Day web page</a>.</p>    </TD>                <TD WIDTH="30%" BGCOLOR="#FFFFCC"><CENTER><H2>What is Field Day?</H2></CENTER><P>That's a good question, and if you asked ten hams, you would probably get ten different answers.  Some would say that Field Day is a contest, others would say that it is an emergency preparedness exercise, still others would say that it is a party and yet others would say that it is a public relations exercise.  Who is right?  They all are!  Field Day is all of those things and more.  The best description anyone can find is that Field Day is all of ham radio in one weekend!</P><P>During Field Day, ham radio clubs, groups and individuals take to the field in simulated emergency conditions (living in tents and running on generators and batteries).  They are given 24 hours to set up as many stations as they are able.  In the next 24 hours they are try to make as many contacts as they can with those stations.  All aspects of ham radio are used in this pursuit.   More than a million contacts will be made on HF and VHF, CW, SSB and digital modes this weekend.  Bonus points are awarded for making an extra effort such as making contacts via satellites or sending and receiving message traffic.  </P><P>Field Day isn't just about radio though.  Clubs use this biggest of all yearly events for many other activities.  With much of the clubs membership assembled it is  a natural time for BBQ's and other gatherings.  Also with all of ham radio on display this weekend it is a choice time to show off what we do best.  The media and government officials are invited to attend to view what ham radio can do.  </P><P>As you can see, Field Day is indeed all of ham radio in one weekend and anyone that attends their first Field Day rarely misses one again!</P><P><CENTER><H2>How to Contest</H2></CENTER></P><P>While Field Day isn't strictly a contest, that is how the entrants are rated and why not?  A contest is a great way to evaluate a stations performance.  It is also a great way to simulate message handling which will be a big part of any response to an emergency.  </P><P>So what is a contest?  Put most simply, in a contest the objective is to make as many contacts in as many places as possible in a prescribed ammount of time.  For Field Day, the objective is simply to make as many contacts as possible in the 24 hours you are alloted.  To make those contacts valid, you have to exchange a certain ammount of information.  The "exchange" for Field Day is your entry class (number of transmitters) and your ARRL section.  </P><P>So how do you go about making these contacts?  Just as you would for any other QSO in amateur radio, there are only two ways to initiate a conversation.  You either have to answer someone who is calling CQ or call CQ yourself and wait for someone to answer you.  Which method is better?  It is generally accepted that staying in one place, calling CQ and letting the other stations come to you is quicker and less tiring.  However, this only works if you have a signal that is loud enough to attract other stations.  If you aren't making any contacts or aren't making them fast enough, you are forced to switch to the search and pounce method.  Excelent operators can rack up the QSOs almost as fast this way.  Which ever method you employ, a Field Day contact sounds like this:<BLOCKQUOTE><FONT COLOR="#FF0000">CQ Field Day CQ Field Day this is W6PIY Whiskey Six Papa India Yankee calling CQ Field Day and listening.</FONT><BR>Whiskey One Alfa Whiskey.<BR><FONT COLOR="#FF0000">W1AW thank you, we are 13 Alfa, Santa Clara Valley, over.</FONT><BR>Thank you, we are 6 Delta, Connecticut, over.<BR><FONT COLOR="#FF0000">Thank you, this is Whiskey Six Papa India Yankee, QRZ?</FONT></BLOCKQUOTE>All that is left is to record the contact on your log sheet and get ready for the next contact.  </P><P>Obviously because of the variability of radio propagation and other factors, many contacts aren't this neat and clean.  This is especially true when multiple people are calling you or you are getting interference from another station, but learning to deal with these conditions are part of the lure and purpose of Field Day!</TD>        </TR></TABLE></BODY></HTML>
+@
+
+
+1.3
+log
+@[Jul 6 2000] major updates completed for Field Day 2000
+@
+text
+@d1 3
+a3 1
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><HTML><HEAD>        <TITLE>WVARA Field Day</TITLE>        <META NAME="generator" CONTENT="BBEdit 5.1.1"></HEAD><BODY BGCOLOR="#FFFFFF"><CENTER><a name="Field Day"></a><font size="6">Field Day</font></CENTER><TABLE CELLSPACING="10" CELLPADDING="10">        <TR>                <TD WIDTH="70%" VALIGN="top"><p>Field Day is perhaps the biggest event on the ham radio calendar each year.  Thousands of clubs and tens of thousands of hams will participate in this one weekends activies (for more information about Field Day, see the <I>What is Field Day</I> sidebar).          <p><font color="red">The Year 2000 Field Day will be from June 23 through June 25 (always the 4th full weekend in June). </font>    <p>Field Day will take place at WVARA members Charlie Norman, AB6VS and Bobbie Norman, KC6QBF's property.  Their location is the top of the Santa Cruz Mountains  near Mt. Loma Prieta. In addition to being an excelent radio location, this beautiful site has views of the Monterey Bay, Santa Cruz and Lexington Reservior from over 3,000 feet in elevation!          <p>The site is only 20 minutes drive from the intersection of highways 17 and 85.   Please use our <a href="directions.shtml" target="_top">map to the Field Day site</a> for reference.  For talk in, use the clubs <a href="http://www.wvara.org/onair.html#Repeaters">two meter repeater</a> while in the valley.  When out of repeater range, use the output frequecy (147.39 MHz) as a simplex freqency.    <p><font color="red">Please take note of these important times!</font>    <UL>        <LI>The 24 hour setup period will begin at 11:00 a.m. Pacific Time on Friday, June 23rd, 2000.        <LI>The Field Day contest starts at 11:00 AM on Saturday, June 24.        <LI>The contest ends and teardown begins at 11:00 AM on Sunday, June 25.        <LI>The club sponsored BBQs will take place on Saturday and Sunday nights around 5:00 PM.        <LI>Breakfast will be provided in the mornings.</UL>  <p>So what can you do at Field Day?  Plenty!  WVARA has found that having as large a Field Day as possible gives the maximum ammount of people a chance to participate in the event.  No matter what you do weather it is something mainstream such as HF or VHF operation or something more rare such as digital communications or satellite work, there is a place for you.  Even if all you want to do is to pitch in and help to set the stations up or just take a look around and watch what is happening you will be welcome at any Field Day site.  </p><p>WVARA has also found that with a large site we can  compete for a good score in the contest. In the last few years, WVARA has finished as one of the top clubs in the nation.  Will you help us capture first place this year?  </P><P>One other important aspect of Field Day is that hams can operate on modes and bands that they can't normally use.  Hams that have HF privledges often act as control operators at their stations allowing those without HF privledges to operate on the HF bands.  Many a new ham has gotten their first taste of HF operating at Field Day.  For more information, see the <I>How to Contest</I> sidebar.</P>  <P>Here is a list of Field Day Band Capitans for 2000.  If you wish to volunteer to help with their station, please send e-mail to "<I>Their Call</I>"@@WVARA.ORG or contact the <a href="mailto:k6pud@@wvara.org">Field Day Coordinator</a>.</P><BLOCKQUOTE><P><U>SSB</U><BR>10/80 - KF6LCV<BR>15 - AD6CL<BR>20 - AD6A<BR>40 - KQ6WO</P><P><U>CW</U><BR>15/80 - K6PUD<BR>20 - K6EI<BR>40 - N6DE</P><P><U>DIGITAL</U><BR>HF - K6ENT<BR>VHF - KF6SPI/KF6SPH</P><P><U>VHF</U><BR>50/220/1200 MHz - K1LPI<BR>144/440 MHz - N6FFC</P><P><U>MULTI-BAND</U><BR>Satellite - KO6YQ</P></BLOCKQUOTE><p><b>Follow the links below for information and pictures from past WVARA Field Day sites:<UL>        <LI><a href="http://www.employees.org/~ikluft/wvara/fd96.html">1996</a>    <LI><a href="/fd/1999/">1999</a>     <LI><a href="/fd/2000/">2000</a></UL></b></p><p>For rules and more information see the<a href="http://www.arrl.org/contests/announcements/fd/">ARRL Field Day web page</a>.</p>    </TD>                <TD WIDTH="30%" BGCOLOR="#FFFFCC"><CENTER><H2>What is Field Day?</H2></CENTER><P>That's a good question, and if you asked ten hams, you would probably get ten different answers.  Some would say that Field Day is a contest, others would say that it is an emergency preparedness exercise, still others would say that it is a party and yet others would say that it is a public relations exercise.  Who is right?  They all are!  Field Day is all of those things and more.  The best description anyone can find is that Field Day is all of ham radio in one weekend!</P><P>During Field Day, ham radio clubs, groups and individuals take to the field in simulated emergency conditions (living in tents and running on generators and batteries).  They are given 24 hours to set up as many stations as they are able.  In the next 24 hours they are try to make as many contacts as they can with those stations.  All aspects of ham radio are used in this pursuit.   More than a million contacts will be made on HF and VHF, CW, SSB and digital modes this weekend.  Bonus points are awarded for making an extra effort such as making contacts via satellites or sending and receiving message traffic.  </P><P>Field Day isn't just about radio though.  Clubs use this biggest of all yearly events for many other activities.  With much of the clubs membership assembled it is  a natural time for BBQ's and other gatherings.  Also with all of ham radio on display this weekend it is a choice time to show off what we do best.  The media and government officials are invited to attend to view what ham radio can do.  </P><P>As you can see, Field Day is indeed all of ham radio in one weekend and anyone that attends their first Field Day rarely misses one again!</P><P><CENTER><H2>How to Contest</H2></CENTER></P><P>While Field Day isn't strictly a contest, that is how the entrants are rated and why not?  A contest is a great way to evaluate a stations performance.  It is also a great way to simulate message handling which will be a big part of any response to an emergency.  </P><P>So what is a contest?  Put most simply, in a contest the objective is to make as many contacts in as many places as possible in a prescribed ammount of time.  For Field Day, the objective is simply to make as many contacts as possible in the 24 hours you are alloted.  To make those contacts valid, you have to exchange a certain ammount of information.  The "exchange" for Field Day is your entry class (number of transmitters) and your ARRL section.  </P><P>So how do you go about making these contacts?  Just as you would for any other QSO in amateur radio, there are only two ways to initiate a conversation.  You either have to answer someone who is calling CQ or call CQ yourself and wait for someone to answer you.  Which method is better?  It is generally accepted that staying in one place, calling CQ and letting the other stations come to you is quicker and less tiring.  However, this only works if you have a signal that is loud enough to attract other stations.  If you aren't making any contacts or aren't making them fast enough, you are forced to switch to the search and pounce method.  Excelent operators can rack up the QSOs almost as fast this way.  Which ever method you employ, a Field Day contact sounds like this:<BLOCKQUOTE><FONT COLOR="#FF0000">CQ Field Day CQ Field Day this is W6PIY Whiskey Six Papa India Yankee calling CQ Field Day and listening.</FONT><BR>Whiskey One Alfa Whiskey.<BR><FONT COLOR="#FF0000">W1AW thank you, we are 13 Alfa, Santa Clara Valley, over.</FONT><BR>Thank you, we are 6 Delta, Connecticut, over.<BR><FONT COLOR="#FF0000">Thank you, this is Whiskey Six Papa India Yankee, QRZ?</FONT></BLOCKQUOTE>All that is left is to record the contact on your log sheet and get ready for the next contact.  </P><P>Obviously because of the variability of radio propagation and other factors, many contacts aren't this neat and clean.  This is especially true when multiple people are calling you or you are getting interference from another station, but learning to deal with these conditions are part of the lure and purpose of Field Day!</TD>        </TR></TABLE></BODY></HTML>@
+
+
+1.2
+log
+@added satellite station
+@
+text
+@d1 1
+a1 113
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>WVARA Field Day</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<CENTER><a name="Field Day"></a><font size="6">Field Day</font></CENTER>
+<TABLE CELLSPACING="10" CELLPADDING="10">
+	<TR>
+		<TD WIDTH="70%" VALIGN="top">
+
+<p>
+Field Day is perhaps the biggest event on the ham radio calendar each year.  Thousands of clubs and tens of thousands of hams will participate in this one weekends activies (for more information about Field Day, see the <I>What is Field Day</I> sidebar).  
+    
+    <p><font color="red">The Year 2000 Field Day will be from June 23 through June 25 (always the 4th full weekend in June). </font>
+
+    <p>Field Day will take place at WVARA members Charlie Norman, AB6VS and Bobbie Norman, KC6QBF's property.  Their location is the top of the Santa Cruz Mountains  near Mt. Loma Prieta. In addition to being an excelent radio location, this beautiful site has views of the Monterey Bay, Santa Cruz and Lexington Reservior from over 3,000 feet in elevation!  
+    
+    <p>The site is only 20 minutes drive from the intersection of highways 17 and 85.   Please use our <a href="http://www.kluft.com/~ikluft/ham/wvara-fd.html">map to the Field Day site</a> for reference.  For talk in, use the clubs <a href="http://www.wvara.org/onair.html#Repeaters">two meter repeater</a> while in the valley.  When out of repeater range, use the output frequecy (147.39 MHz) as a simplex freqency.
+    
+<p><font color="red">Please take note of these important times!</font>
+    <UL>
+	<LI>The 24 hour setup period will begin at 11:00 a.m. Pacific Time on Friday, June 23rd, 2000.
+	<LI>The Field Day contest starts at 11:00 AM on Saturday, June 24.
+	<LI>The contest ends and teardown begins at 11:00 AM on Sunday, June 25.
+	<LI>The club sponsored BBQs will take place on Saturday and Sunday nights around 5:00 PM.
+	<LI>Breakfast will be provided in the mornings.
+</UL>
+  
+<p>So what can you do at Field Day?  Plenty!  WVARA has found that having as large a Field Day as possible gives the maximum ammount of people a chance to participate in the event.  No matter what you do weather it is something mainstream such as HF or VHF operation or something more rare such as digital communications or satellite work, there is a place for you.  Even if all you want to do is to pitch in and help to set the stations up or just take a look around and watch what is happening you will be welcome at any Field Day site.  
+</p>
+
+<p>
+WVARA has also found that with a large site we can  compete for a good score in the contest. In the last few years, WVARA has finished as one of the top clubs in the nation.  Will you help us capture first place this year?  
+</P>
+
+<P>
+One other important aspect of Field Day is that hams can operate on modes and bands that they can't normally use.  Hams that have HF privledges often act as control operators at their stations allowing those without HF privledges to operate on the HF bands.  Many a new ham has gotten their first taste of HF operating at Field Day.  For more information, see the <I>How to Contest</I> sidebar.</P>  
+
+<P>
+Here is a list of Field Day Band Capitans for 2000.  If you wish to volunteer to help with their station, please send e-mail to "<I>Their Call</I>"@@WVARA.ORG or contact the <a href="mailto:k6pud@@wvara.org">Field Day Coordinator</a>.</P>
+
+<BLOCKQUOTE>
+<P><U>SSB</U><BR>
+10/80 - KF6LCV<BR>
+15 - AD6CL<BR>
+20 - AD6A<BR>
+40 - KQ6WO</P>
+
+<P><U>CW</U><BR>
+15/80 - K6PUD<BR>
+20 - K6EI<BR>
+40 - N6DE</P>
+
+<P><U>DIGITAL</U><BR>
+HF - K6ENT<BR>
+VHF - KF6SPI/KF6SPH</P>
+
+<P><U>VHF</U><BR>
+50/220/1200 MHz - K1LPI<BR>
+144/440 MHz - N6FFC</P>
+
+<P><U>MULTI-BAND</U><BR>
+Satellite - KO6YQ</P>
+</BLOCKQUOTE>
+
+<p>Follow the links below for information and pictures from past WVARA Field Day sites:
+<UL>
+	<LI><a href="http://www.employees.org/~ikluft/wvara/fd96.html">1996</a>
+    <LI><a href="/fd/1999/">1999</a>.  
+</UL>
+</p>
+
+<p>For rules and more information see the<a href="http://www.arrl.org/contests/announcements/fd/">ARRL Field Day web page</a>.
+</p>
+    </TD>
+		<TD WIDTH="30%" BGCOLOR="#FFFFCC"><CENTER><H2>What is Field Day?</H2></CENTER>
+<P>That's a good question, and if you asked ten hams, you would probably get ten different answers.  Some would say that Field Day is a contest, others would say that it is an emergency preparedness exercise, still others would say that it is a party and yet others would say that it is a public relations exercise.  Who is right?  They all are!  Field Day is all of those things and more.  The best description anyone can find is that Field Day is all of ham radio in one weekend!</P>
+
+<P>During Field Day, ham radio clubs, groups and individuals take to the field in simulated emergency conditions (living in tents and running on generators and batteries).  They are given 24 hours to set up as many stations as they are able.  In the next 24 hours they are try to make as many contacts as they can with those stations.  All aspects of ham radio are used in this pursuit.   More than a million contacts will be made on HF and VHF, CW, SSB and digital modes this weekend.  Bonus points are awarded for making an extra effort such as making contacts via satellites or sending and receiving message traffic.  </P>
+
+<P>
+Field Day isn't just about radio though.  Clubs use this biggest of all yearly events for many other activities.  With much of the clubs membership assembled it is  a natural time for BBQ's and other gatherings.  Also with all of ham radio on display this weekend it is a choice time to show off what we do best.  The media and government officials are invited to attend to view what ham radio can do.  
+</P>
+
+<P>
+As you can see, Field Day is indeed all of ham radio in one weekend and anyone that attends their first Field Day rarely misses one again!
+</P>
+<P><CENTER><H2>How to Contest</H2></CENTER></P>
+
+<P>While Field Day isn't strictly a contest, that is how the entrants are rated and why not?  A contest is a great way to evaluate a stations performance.  It is also a great way to simulate message handling which will be a big part of any response to an emergency.  </P>
+
+<P>So what is a contest?  Put most simply, in a contest the objective is to make as many contacts in as many places as possible in a prescribed ammount of time.  For Field Day, the objective is simply to make as many contacts as possible in the 24 hours you are alloted.  To make those contacts valid, you have to exchange a certain ammount of information.  The "exchange" for Field Day is your entry class (number of transmitters) and your ARRL section.  </P>
+
+<P>So how do you go about making these contacts?  Just as you would for any other QSO in amateur radio, there are only two ways to initiate a conversation.  You either have to answer someone who is calling CQ or call CQ yourself and wait for someone to answer you.  Which method is better?  It is generally accepted that staying in one place, calling CQ and letting the other stations come to you is quicker and less tiring.  However, this only works if you have a signal that is loud enough to attract other stations.  If you aren't making any contacts or aren't making them fast enough, you are forced to switch to the search and pounce method.  Excelent operators can rack up the QSOs almost as fast this way.  Which ever method you employ, a Field Day contact sounds like this:
+
+<BLOCKQUOTE>
+<FONT COLOR="#FF0000">CQ Field Day CQ Field Day this is W6PIY Whiskey Six Papa India Yankee calling CQ Field Day and listening.</FONT><BR>
+Whiskey One Alfa Whiskey.<BR>
+<FONT COLOR="#FF0000">W1AW thank you, we are 13 Alfa, Santa Clara Valley, over.</FONT><BR>
+Thank you, we are 6 Delta, Connecticut, over.<BR>
+<FONT COLOR="#FF0000">Thank you, this is Whiskey Six Papa India Yankee, QRZ?</FONT>
+</BLOCKQUOTE>
+
+All that is left is to record the contact on your log sheet and get ready for the next contact.  </P>
+
+<P>Obviously because of the variability of radio propagation and other factors, many contacts aren't this neat and clean.  This is especially true when multiple people are calling you or you are getting interference from another station, but learning to deal with these conditions are part of the lure and purpose of Field Day!
+</TD>
+	</TR>
+</TABLE>
+</BODY>
+</HTML>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d63 3
+@

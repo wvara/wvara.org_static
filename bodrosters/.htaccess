@@ -1,0 +1,2 @@
+AuthUserFile "/home/wvara/.htpasswds/public_html/bodrosters/passwd"
+AuthName "BODRosters"

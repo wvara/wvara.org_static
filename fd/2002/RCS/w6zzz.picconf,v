@@ -1,0 +1,29 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2003.04.10.03.48.04;	author root;	state Exp;
+branches;
+next	;
+
+
+desc
+@FD 2002 pictures by Marc W6ZZZ
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# picture configuration file for WVARA FD 2002
+pics= pic2002624193212-31631.jpg pic2002624193356-28641.jpg pic2002624193735-28641.jpg pic200262419423-31719.jpg pic2002624194444-28644.jpg pic2002624194710-31715.jpg pic2002624195039-28641.jpg pic2002624195317-31719.jpg pic2002624195542-31715.jpg
+subtitle=WVARA Field Day 2002 Photos by W6ZZZ
+intro=
+	These are photos by Marc Ziegler W6ZZZ
+@

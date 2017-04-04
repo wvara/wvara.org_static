@@ -1,0 +1,78 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2003.03.27.06.20.35;	author pverinsky;	state Exp;
+branches;
+next	;
+
+
+desc
+@Move 2002 files to 2002 directory.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@<html>
+<head>
+<title>Field Day Visitor Safety Tips</title>
+</head>
+<body bgcolor="#ffffff">
+<font face=Helvetica,Arial,sans-serif>
+<center>
+<h1>Field Day Visitor Safety Tips</h1>
+</center>
+</font>
+
+<blockquote>
+<pre>
+From: "J. Marcus Ziegler"
+To: <a href="http://www.wvara.org/mailman/listinfo/chat">"wvara-chat"</a>
+Subject: [WVARA Chat] Field Day Visitor Safety
+Date: Mon, 18 Jun 2001 21:04:48 -0700
+
+Here are some Field Day safety hints if you are new to the WVARA Field Day
+site here at 3000' in the Santa Cruz mountains.
+
+I'm a new ham but a long time Santa Cruz mountain resident.
+
+Lets be careful out there for yourself, our WVARA visitors and the local
+mountain residents (like myself).
+
+
+Carpool  with your friends to the site. This gives you somebody to read the
+map and navigate while you are driving the car.
+
+
+I expect the weather for Field Day to be:
+
+   Dry, dry, dry and with some wind - HIGH FIRE DANGER
+      - lets not start any wildfires with cars and hot mufflers, you never
+know where somebody might try to park in the tall weeds and grasses if it
+gets crowded at the site
+
+   Hot in the daytime, plan on it being at least 80-90 degrees and you will
+be in the full sun all during the day
+      - drink lots of liquids, the heat and sun and wind will really dry you
+out
+
+   Sunny and clear, very high UV index
+      - bring a hat
+      - put on lots of sunscreen
+
+
+Have fun and be safe!
+</pre>
+</blockquote>
+
+</body>
+</html>
+@

@@ -1,0 +1,5 @@
+Phil 4/10/03
+Do not check in kg6ial.html, w6zzz.html or ko6yq.html to RCS.
+Instead check in kg6ial.picconf, w6zzz.picconf and ko6yq.picconf - the
+files that the corresponding HTML files are generated from.
+

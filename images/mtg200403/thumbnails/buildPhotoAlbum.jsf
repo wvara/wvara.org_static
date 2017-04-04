@@ -1,0 +1,68 @@
+App.progressCountTotal = 8;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///movies1/wvara-originals/March-2004-meeting-pics/AD6CL and Son.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'AD6CL and Son.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/images/AD6CL and Son_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/images/AD6CL and Son_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/images/AD6CL and Son_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/thumbnails/AD6CL and Son_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/thumbnails/AD6CL and Son_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/thumbnails/AD6CL and Son_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara-originals/March-2004-meeting-pics/Ian Plaque for Support.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'Ian Plaque for Support.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/images/Ian Plaque for Support_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/images/Ian Plaque for Support_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/images/Ian Plaque for Support_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/thumbnails/Ian Plaque for Support_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/thumbnails/Ian Plaque for Support_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/thumbnails/Ian Plaque for Support_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara-originals/March-2004-meeting-pics/Members.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'Members.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/images/Members_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/images/Members_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/images/Members_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/thumbnails/Members_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/thumbnails/Members_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/thumbnails/Members_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara-originals/March-2004-meeting-pics/Officers Again.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'Officers Again.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/images/Officers Again_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/images/Officers Again_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/images/Officers Again_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/thumbnails/Officers Again_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/thumbnails/Officers Again_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/thumbnails/Officers Again_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara-originals/March-2004-meeting-pics/Officers.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'Officers.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/images/Officers_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/images/Officers_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/images/Officers_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/thumbnails/Officers_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/thumbnails/Officers_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/thumbnails/Officers_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara-originals/March-2004-meeting-pics/Speaker and Members.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'Speaker and Members.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/images/Speaker and Members_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/images/Speaker and Members_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/images/Speaker and Members_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/thumbnails/Speaker and Members_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/thumbnails/Speaker and Members_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/thumbnails/Speaker and Members_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara-originals/March-2004-meeting-pics/Speaker Steve.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'Speaker Steve.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/images/Speaker Steve_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/images/Speaker Steve_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/images/Speaker Steve_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/thumbnails/Speaker Steve_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/thumbnails/Speaker Steve_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/thumbnails/Speaker Steve_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara-originals/March-2004-meeting-pics/WB6TQQ Net Certificate.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'WB6TQQ Net Certificate.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/images/WB6TQQ Net Certificate_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/images/WB6TQQ Net Certificate_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/images/WB6TQQ Net Certificate_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"45", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200403/thumbnails/WB6TQQ Net Certificate_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200403/thumbnails/WB6TQQ Net Certificate_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200403/thumbnails/WB6TQQ Net Certificate_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

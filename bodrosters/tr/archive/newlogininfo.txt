@@ -1,0 +1,12 @@
+//Code change 6/4/16 W6PK: moved database login information from here to dbaccess.php.
+
+require '/home/wvara/usr/etc/dbaccess.php';
+//dbaccess.php provides  $dbaccess_comment, $dbaccess_hostname, $dbaccess_dbname,
+//   $dbaccess_pwd, $dbaccess_username.
+
+// MySQL host name, user name, password, database, and table
+$opts['hn'] = $dbaccess_hostname;
+$opts['un'] = $dbaccess_username;
+$opts['pw'] = $dbaccess_pwd;
+$opts['db'] = $dbaccess_dbname;
+$opts['tb'] = 'members';

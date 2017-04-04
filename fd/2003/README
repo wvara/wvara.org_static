@@ -1,0 +1,7 @@
+1. Symlink these files into the pictures directory
+2. Create a pic-template file for the HTML template
+3. Create a picdesc.txt file with filenames and descriptions
+4. For each HTML file to be generated, write a .picconf file
+5. Run "./mkpicmk"
+6. Run "make"
+

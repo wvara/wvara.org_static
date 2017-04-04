@@ -1,0 +1,4 @@
+AuthName "TR"
+AuthUserFile "/home/wvara/.htpasswds/public_html/bodrosters/tr/passwd"
+AuthType Basic
+require valid-user

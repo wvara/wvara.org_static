@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "RosterDev"
+AuthUserFile "/home/wvara/.htpasswds/public_html/bodrosters/bod_rosterdev/passwd"
+require valid-user

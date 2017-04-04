@@ -1,0 +1,164 @@
+App.progressCountTotal = 20;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0160.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'img_0160.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0160_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0160_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0160_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0160_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0160_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0160_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0161.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'img_0161.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0161_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0161_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0161_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0161_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0161_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0161_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0162.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'img_0162.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0162_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0162_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0162_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0162_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0162_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0162_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0163.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'img_0163.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0163_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0163_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0163_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0163_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0163_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0163_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0166.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'img_0166.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0166_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0166_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0166_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0166_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0166_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0166_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0167.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'img_0167.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0167_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0167_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0167_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0167_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0167_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0167_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0168.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'img_0168.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0168_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0168_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0168_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0168_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0168_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0168_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0170.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'img_0170.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0170_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0170_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0170_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0170_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0170_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0170_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0172.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'img_0172.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0172_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0172_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0172_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0172_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0172_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0172_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0173.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'img_0173.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0173_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0173_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0173_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0173_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0173_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0173_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0174.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'img_0174.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0174_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0174_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0174_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0174_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0174_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0174_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0175.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'img_0175.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0175_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0175_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0175_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0175_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0175_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0175_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0176.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'img_0176.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0176_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0176_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0176_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0176_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0176_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0176_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0177.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'img_0177.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0177_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0177_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0177_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0177_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0177_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0177_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0179.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'img_0179.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0179_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0179_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0179_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0179_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0179_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0179_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0180.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'img_0180.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0180_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0180_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0180_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0180_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0180_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0180_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0181.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'img_0181.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0181_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0181_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0181_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0181_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0181_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0181_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0182.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'img_0182.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0182_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0182_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0182_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0182_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0182_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0182_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0183.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'img_0183.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0183_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0183_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0183_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0183_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0183_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0183_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///movies1/wvara/images/mtg200402/img_0184.jpg');
+App.progressCountCurrent = 20;
+App.batchStatusString = 'img_0184.jpg';
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/images/img_0184_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/images/img_0184_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/images/img_0184_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"35", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///movies1/wvara/images/mtg200402/thumbnails/img_0184_jpg.jpg') || confirm('file:///movies1/wvara/images/mtg200402/thumbnails/img_0184_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///movies1/wvara/images/mtg200402/thumbnails/img_0184_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

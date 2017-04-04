@@ -1,0 +1,221 @@
+3c3
+< //03/09/16 Code change: Add more renewal information, date joined, reorganized  status-related
+---
+> //03/10/16 Code change: Add more renewal information, date joined, reorganized  status-related
+63,66c63,66
+< $memberlist_count = 0;
+< $memberlife_count = 0;
+< $membercurrent_count = 0;
+< $memberlastyear_count = 0;
+---
+> $member_list_count = 0;
+> $member_life_count = 0;
+> $member_current_count = 0;
+> $member_last_year_count = 0;
+83,84c83,84
+< 	$arcentry = "";
+< 	$current_member = FALSE;
+---
+> 	$archive_entry = "";
+> 	$member_current = FALSE;
+86c86
+< 	$graceperiod_member = FALSE;
+---
+> 	$grace_period_member = FALSE;
+88c88,89
+< 	$memberlastyear = FALSE;
+---
+> 	$member_last_year = FALSE;
+> 	$lookup_renewal_date = FALSE;
+91,93c92,94
+< 	$silentkey = FALSE;
+< 	$skentry = "";
+< 	$renewedthru = $row["DuesPaidThru"];
+---
+> 	$silent_key = FALSE;
+> 	$sk_entry = "";
+> 	$renewed thru = $row["DuesPaidThru"];
+97c98
+< 	if($status == Life)
+---
+> 	if($status == "Life")
+99d99
+< 		$status_reported = "Life Member<br>";
+100a101,105
+> 		$status_reported = "Life Member<br>";
+> 		$show_in_member_list = TRUE;
+> 		$member_current = TRUE;
+> 		$lookup_renewal_date = FALSE;
+> 		$member_life_count += 1;
+102c107
+< 	elseif($status == Regular-FamilyMaster)
+---
+> 	elseif($status == "Regular-FamilyMaster")
+104a110
+> 		$lookup_renewal_date = TRUE;
+106c112
+< 	elseif($status == Regular)
+---
+> 	elseif($status == "Regular")
+108a115
+> 		$lookup_renewal_date = TRUE;
+110c117
+< 	elseif($status == Family)
+---
+> 	elseif($status == "Family")
+112a120
+> 		$lookup_renewal_date = TRUE;
+114c122
+< 	elseif($status == SK)
+---
+> 	elseif($status == "SK")
+116c124,125
+< 		$silentkey = TRUE;
+---
+> 		$silent_key = TRUE;
+> 		$lookup_renewal_date = TRUE;
+118c127
+< 	if($status == Life)
+---
+> 	if($lookup_renewal_date)
+120,122c129,143
+< 		$memberlife_count += 1;
+< 		$current_member = TRUE;
+< 		$show_in_member_list = TRUE;
+---
+> 		if($renewed thru >= $local_yyyy)
+> 			{
+> 			$member_current = TRUE;
+> 			$status_reported .= "Renewed through $local_yyyy";
+> 			$show_in_member_list = TRUE;
+> 			$member_current_count += 1;
+> 			}
+> 		if($renewed thru == ($local_yyyy - 1))
+> 			{
+> 			$member_current = FALSE;
+> 			$member_last_year = TRUE;
+> 			$status_reported .= "Please Renew, Membership Due 1/1/$local_yyyy";
+> 			$show_in_member_list = TRUE;
+> 			$member_last_year_count += 1;
+> 			}
+124c145,146
+< 	elseif($renewedthru >= $local_yyyy)
+---
+> // XXX READY TO HERE XXX
+> 	if($status == "Life")
+126,129d147
+< 		$current_member = TRUE;
+< 		$membercurrent_count += 1;
+< 		$show_in_member_list = TRUE;
+< 		$status_reported .= "Renewed through $local_yyyy";
+131c149
+< 	elseif($renewedthru == ($local_yyyy - 1))
+---
+> 	elseif($renewed thru >= $local_yyyy)
+133,136c151,161
+< 		$memberlastyear = TRUE;
+< 		$memberlastyear_count += 1;
+< 		$show_in_member_list = TRUE;
+< 		$status_reported .= "Please Renew, Membership Due 1/1/$local_yyyy";
+---
+> //		$member_current = TRUE;
+> //		$member_current_count += 1;
+> //		$show_in_member_list = TRUE;
+> //		$status_reported .= "Renewed through $local_yyyy";
+> 		}
+> 	elseif($renewed thru == ($local_yyyy - 1))
+> 		{
+> //		$member_last_year = TRUE;
+> //		$member_last_year_count += 1;
+> //		$show_in_member_list = TRUE;
+> //		$status_reported .= "Please Renew, Membership Due 1/1/$local_yyyy";
+140c165
+< 		if(!$silentkey)
+---
+> 		if(!$silent_key)
+169c194
+< if ($silentkey)
+---
+> if ($silent_key)
+171,172c196,197
+< 	$skentry .= "$handle $lastname, <b>$call, SK</b><br>";
+< 	$skall .= "$skentry<p>";
+---
+> 	$sk_entry .= "$handle $lastname, <b>$call, SK</b><br>";
+> 	$skall .= "$sk_entry<p>";
+176c201
+< 	if($silentkey)
+---
+> 	if($silent_key)
+183c208
+< 		$memberlist_count +=1;
+---
+> 		$member_list_count +=1;
+185c210
+< 	if($silentkey)		
+---
+> 	if($silent_key)		
+196c221
+< //		$entry .= "Renewed through $renewedthru<br>";
+---
+> //		$entry .= "Renewed through $renewed thru<br>";
+198c223
+< 	if($silentkey)		
+---
+> 	if($silent_key)		
+227c252
+< 	if($silentkey)
+---
+> 	if($silent_key)
+229c254
+< 		$arcentry .= "$handle $lastname, <b>$call, SK</b><br>";
+---
+> 		$archive_entry .= "$handle $lastname, <b>$call, SK</b><br>";
+233,234c258,259
+< 		$arcentry .= "$handle $lastname, <b>$call</b><br>";
+< 		$memberlist_count +=1;
+---
+> 		$archive_entry .= "$handle $lastname, <b>$call</b><br>";
+> 		$member_list_count +=1;
+236c261
+< 	if($silentkey)		
+---
+> 	if($silent_key)		
+241c266
+< 		$arcentry .= "Renewed through $renewedthru<br>";
+---
+> 		$archive_entry .= "Renewed through $renewed thru<br>";
+243c268
+< 	if($silentkey)		
+---
+> 	if($silent_key)		
+250c275
+< 			$arcentry .= "$streetaddress<br>";
+---
+> 			$archive_entry .= "$streetaddress<br>";
+254c279
+< 			$arcentry .= "$city, $state $zip<br>";
+---
+> 			$archive_entry .= "$city, $state $zip<br>";
+261c286
+< 			$arcentry .= "$email<br>";
+---
+> 			$archive_entry .= "$email<br>";
+265c290
+< 			$arcentry .= "$phone<br>";
+---
+> 			$archive_entry .= "$phone<br>";
+268c293
+< 	$arcall .= "$arcentry<p>";
+---
+> 	$arcall .= "$archive_entry<p>";
+274,277c299,302
+< 	$all .= "$memberlist_count Members Listed:<br>";
+< 	$all .= "$memberlife_count are Life Members<br>";
+< 	$all .= "$membercurrent_count renewed until 12/31/$local_yyyy<br>";
+< 	$all .= "$memberlastyear_count renewed until 12/31/" . ($local_yyyy - 1) . "<br>";
+---
+> 	$all .= "$member_list_count Members Listed:<br>";
+> 	$all .= "$member_life_count are Life Members<br>";
+> 	$all .= "$member_current_count renewed until 12/31/$local_yyyy<br>";
+> 	$all .= "$member_last_year_count renewed until 12/31/" . ($local_yyyy - 1) . "<br>";
